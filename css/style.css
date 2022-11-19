@@ -1,0 +1,68 @@
+.main_field{
+   z-index: 0;
+   margin-left: 25%;
+   display: inline-block;
+   width: 700px;
+
+}
+ .field{
+   z-index: 1;
+   background-color: goldenrod;
+   display: inline-block;
+   border: 1px solid black;
+   width: 150px;
+   height: 150px;
+ }
+
+ .field2{
+   z-index: 1;
+   display: inline-block;
+   background-color: goldenrod;
+   border: 1px solid black;
+   width: 150px;
+   height: 150px;
+ }
+
+ .field3{
+   z-index: 1;
+   display: inline-block;
+   background-color: goldenrod;
+   border: 1px solid black;
+   width: 150px;
+   height: 150px;
+ }
+
+ .field4{
+   z-index: 1;
+   display: inline-block;
+   background-color: goldenrod;
+   border: 1px solid black;
+   width: 150px;
+   height: 150px;
+ }
+
+ img {
+   z-index: 1;
+   width: 150px;
+   height: 150px;
+   text-align: center;
+   cursor: url('/im.png'), crosshair;
+ }
+
+ .fog_active{
+  z-index: 99999;
+  display: block;
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  background-color: black;
+ }
+ .status_active{
+  z-index: 999999;
+  display: block;
+  position: fixed;
+  margin-left: 40%;
+  margin-top: 25%;
+  font-size: 100px;
+  color: red;
+ }

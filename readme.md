@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/mgrq7ij1r77rihgv/branch/main?svg=true)](https://ci.appveyor.com/project/AntonGusev111/js3-event-github-io/branch/main)
